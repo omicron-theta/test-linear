@@ -1,1 +1,2 @@
 # test-linear
+make dev
